@@ -22,9 +22,9 @@ print(chart.get(const.ASC))
 ```   
 ## Installation
 download flatlib_sidereal      
-run powershell as an Administrator and cd to the flatlib_sidereal folder.   
+run powershell as an Administrator and cd to the flatlib_sidereal folder then enter   
 ``` 
-python setup.py install
+pip install .
 ```   
 
 ## Documentation
